@@ -1,4 +1,4 @@
-# test-vue-2
+# vue-2-webpack-template
 
 > A Vue.js project
 
